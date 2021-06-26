@@ -12,6 +12,10 @@
 
 You can see the Information of Customers on your database for the search.
 
+<img src="https://www.thealientek.com/images/screen1.png">
+
+<img src="https://www.thealientek.com/images/screen2.png">
+
 
 If this repository helps on your project, Buy me a Coffee https://www.buymeacoffee.com/betoalien
  
