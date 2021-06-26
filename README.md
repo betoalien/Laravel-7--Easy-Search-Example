@@ -8,6 +8,7 @@
  4) php artisan migrate
  5) php artisan db:seed
  6) php artisan serve
+ 7) Check web.php on routes and principal.blade.php to make changes on search
 
 You can see the Information of Customers on your database for the search.
 
